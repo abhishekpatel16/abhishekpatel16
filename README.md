@@ -12,8 +12,9 @@ I am passionate about leveraging data to derive meaningful insights and solve re
   - Introduction to Databases
   - Big Data  
   - Data Visualization  
-  - Data Science with Python  
-  - Data Analytics in R  
+  - Data Science with Python
+
+    
 
 ### 🚀 Aspirations
 I aspire to carve my path as a skilled data scientist, utilizing my knowledge and expertise to contribute innovative solutions in the realm of data-driven decision-making.
